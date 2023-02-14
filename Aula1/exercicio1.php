@@ -10,7 +10,7 @@
     <h1>Exercicio 1</h1>
 
     <?php
-    $nome = "Olá mundo"; 
+    $nome = "Olá flavio"; 
         echo $nome
     ?>
     
